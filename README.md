@@ -1,0 +1,2 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/3rceksgeyckih9ed?svg=true)](https://ci.appveyor.com/project/CoFFeeMaN11/zavadengine-krag9)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/535449ceccb14cd1a87744a753c12e87)](https://www.codacy.com/manual/CoFFeeMaN11/ZavadEngine?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=CoFFeeMaN11/ZavadEngine&amp;utm_campaign=Badge_Grade)
